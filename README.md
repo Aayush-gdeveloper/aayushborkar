@@ -22,24 +22,31 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aayush-gdeveloper&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Aayush-gdeveloper&theme=radical)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Aayush-gdeveloper/aayushborkar/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Aayush-gdeveloper/aayushborkar/main/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔥 Fun Animation
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Future+Tech+Builder;Open+World+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Future+Tech+Builder;Open+World+Creator;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+---
+
+## 🚀 Projects
+- 🤖 AI Operating System (In Progress)
+- 🎮 Open World Reality Game
+- 📊 Data Analytics Dashboard Projects
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn (add later)
-- Portfolio (add later)
+- 🔗 LinkedIn (add later)
+- 🌍 Portfolio (add later)
