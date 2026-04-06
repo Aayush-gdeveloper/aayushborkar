@@ -28,6 +28,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Aayush-gdeveloper/aayushborkar/blob/main/github-contribution-grid-snake.svg)
+
+---
+
 ## 🔥 Fun Animation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Future+Tech+Builder;Open+World+Creator)](https://git.io/typing-svg)
